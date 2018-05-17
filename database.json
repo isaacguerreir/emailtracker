@@ -1,0 +1,22 @@
+{
+  "users": {
+      "user1": {
+          "email": "user1@gmail.com",
+          "tracker": {
+            "hash123456789": 0
+          }
+      },
+      "user2": {
+        "email": "user2@gmail.com",
+        "tracker": {
+          "hash123456789": 0
+        }
+      },
+      "user3": {
+        "email": "user3@gmail.com",
+        "tracker": {
+          "hash123456789": 0
+        }
+    }
+  }
+}
